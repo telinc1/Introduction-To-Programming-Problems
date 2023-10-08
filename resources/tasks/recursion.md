@@ -60,10 +60,10 @@
 
 	```math
 	\begin{align*}
-	\operatorname{C}(0, n) &= 1 \\
-	\operatorname{C}(m, 0) &= 1 \\
-	\operatorname{C}(n, n) &= 1 \\
-	\operatorname{C}(m, n) &= \operatorname{C}(m-1, n-1) + \operatorname{C}(m-1, n)
+	\mathrm{C}(0, n) &= 1 \\
+	\mathrm{C}(m, 0) &= 1 \\
+	\mathrm{C}(n, n) &= 1 \\
+	\mathrm{C}(m, n) &= \mathrm{C}(m-1, n-1) + \mathrm{C}(m-1, n)
 	\end{align*}
 	```
 

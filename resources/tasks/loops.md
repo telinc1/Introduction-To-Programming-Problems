@@ -118,9 +118,9 @@
 
 	```math
 	\begin{align*}
-	\operatorname{fib}(1)&=1 \\
-	\operatorname{fib}(2)&=1 \\
-	\operatorname{fib}(n)&=\operatorname{fib}(n-1) + \operatorname{fib}(n-2)
+	\mathrm{fib}(1)&=1 \\
+	\mathrm{fib}(2)&=1 \\
+	\mathrm{fib}(n)&=\mathrm{fib}(n-1) + \mathrm{fib}(n-2)
 	\end{align*}
 	```
 
