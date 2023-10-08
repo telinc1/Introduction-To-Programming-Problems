@@ -58,14 +58,14 @@
 
 5. **Задача** Да се дефинира рекурсивна функция, която изчислява биномния коефициент:
 
-	$$
+	```math
 	\begin{align*}
 	\operatorname{C}(0, n) &= 1 \\
 	\operatorname{C}(m, 0) &= 1 \\
 	\operatorname{C}(n, n) &= 1 \\
 	\operatorname{C}(m, n) &= \operatorname{C}(m-1, n-1) + \operatorname{C}(m-1, n)
 	\end{align*}
-	$$
+	```
 
 	---
 
@@ -200,7 +200,7 @@
 	1
 	```
 	---
-	
+
 **[Решение](../solutions/recursion/task14.cpp)**
 
 Задачи за самостоятелна работа:

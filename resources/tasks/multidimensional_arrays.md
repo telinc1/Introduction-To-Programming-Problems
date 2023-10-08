@@ -197,14 +197,14 @@
 	```
 	Обяснение на примера (областите са оцветени в различни цветове):
 
-	$$
+	```math
 	\begin{matrix}
 	0                     & \textcolor{red}{1}    & \textcolor{red}{1}    & 0                     & 0                     & 0                   \\
 	\textcolor{red}{1}    & \textcolor{red}{1}    & 0                     & \textcolor{green}{1}  & \textcolor{green}{1}  & 0                   \\
 	0                     & 0                     & 0                     & 0                     & 0                     & \textcolor{blue}{1} \\
 	\textcolor{orange}{1} & \textcolor{orange}{1} & \textcolor{orange}{1} & \textcolor{orange}{1} & \textcolor{orange}{1} & 0
 	\end{matrix}
-	$$
+	```
 
 	---
 
@@ -233,14 +233,14 @@
 
 	Обяснение на примера (правилната подматрица е оцветена в червено):
 
-	$$
+	```math
 	\begin{matrix}
 	1  & 2 & 3  & 4                   & 5                   & 6                  \\
 	4  & 5 & -1 & \textcolor{red}{6}  & \textcolor{red}{7}  & \textcolor{red}{8} \\
 	-1 & 3 & 9  & \textcolor{red}{10} & \textcolor{red}{19} & \textcolor{red}{3} \\
 	0  & 4 & 5  & 8                   & -13                 & 2
 	\end{matrix}
-	$$
+	```
 
 <br>
 
