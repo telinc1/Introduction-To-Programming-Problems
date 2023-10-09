@@ -1,9 +1,8 @@
 # Въведение
 
-## Езици за програмиране
+[Езици за програмиране](https://drive.google.com/file/d/1-cHs9o5upXup-wSb4vBV82rc6fa4LXSS/view?usp=sharing)
 
-[Кратка презентация](https://drive.google.com/file/d/1-cHs9o5upXup-wSb4vBV82rc6fa4LXSS/view?usp=sharing)
-
+[IT професии](https://docs.google.com/file/d/1hiPTcIeImOAccAjI87kvW38dLJIM5FFK/)
 
 ## Блок схема и пример за алгоритъм
 

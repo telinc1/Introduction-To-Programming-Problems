@@ -10,3 +10,9 @@
  - [Телерик част 1](https://www.youtube.com/watch?v=X79P_71UkLY&list=PLF4lVL1sPDSmDZFqwBR6ZfSPjESSKy4cB)
  - [Телерик част 2](https://www.youtube.com/watch?v=nrExyptmpo4&list=PLF4lVL1sPDSmCydDTYGUVmoVYDveKyz--)
  - [Телерик част 3](https://www.youtube.com/watch?v=VcfTV7Fx0Js&list=PLF4lVL1sPDSm6-69K-hgaVrPcIcnJ8_jd)
+
+## Материали за справка
+
+- [cplusplus.com](https://cplusplus.com/reference/)
+- [cppreference.com](https://en.cppreference.com/w/)
+- [Learn C++](https://www.learncpp.com)

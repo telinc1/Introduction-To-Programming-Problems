@@ -1,5 +1,9 @@
 # Динамична памет
 
+[Теория](https://drive.google.com/file/d/1eGU0bzZOcPqcAOYkTi_AOFgTO3jZrTyS/view?usp=sharing)
+
+## Задачи
+
 **Следните задачи да се решат с динамична памет, а не с използването на std::vector!**
 
 **Упражнете и освобождаването на памет!**

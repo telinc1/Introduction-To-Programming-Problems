@@ -1,4 +1,10 @@
- # Символен тип (char)
+# Символен тип (char)
+
+[Теория](https://drive.google.com/file/d/1HDcNCg4ZZI2nP1KE34PlBj5lZKL1Pryn/view?usp=sharing)
+
+[Допълнителни материали](../bonus/variables.md)
+
+[Решения](../solutions/char_type/)
 
 1. **Задача** Да се състави програма, която прочита от клавиатурата цяло число от 0 до 255 и извежда съответстващия му символ според ASCII таблицата.
 

@@ -1,5 +1,11 @@
 # Функции
 
+[Теория](https://drive.google.com/file/d/1PCkW_q9UoMWP4aE7nJW19SggJNNEYPU1/view?usp=sharing)
+
+[Допълнителни материали](../bonus/functions.md)
+
+## Задачи
+
 1. **Задача** Да се състави функция `sum(const int a, const int b)`, която приема две числа и връща като резултат сбора им.<br>
 
 	**Пример**:<br>
@@ -191,3 +197,7 @@
 	85 → 1010101
 	93 → 1011101
 	```
+
+## Практически задачи
+
+[Блекджек](../tasks/bonus/blackjack.md)
