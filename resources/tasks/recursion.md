@@ -1,7 +1,5 @@
 # Рекурсия
 
-[Теория](https://drive.google.com/file/d/1ltVRg7LSUHess_2QAXH-lgSj1jbFOelP/view?usp=sharing)
-
 [Допълнителни материали](../bonus/recursion.md)
 
 ## Задачи

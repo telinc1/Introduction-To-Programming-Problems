@@ -1,7 +1,5 @@
 # Операции, изрази и области. Вход и изход
 
-[Теория](https://drive.google.com/file/d/1HT_KqTEmDCikOUsHJmwB5PbNPUw3VwsO/view?usp=sharing)
-
 [Допълнителни материали](../bonus/operators.md)
 
 ## Задачи

@@ -1,7 +1,5 @@
 # Циклично изпълнение. Видове циклични процеси.
 
-[Теория](https://drive.google.com/file/d/1JQ9siYUeYPtPgHlfqJCyOZNLuSrgLvIw/view?usp=sharing)
-
 [Допълнителни материали](../bonus/loops.md)
 
 ## Задачи

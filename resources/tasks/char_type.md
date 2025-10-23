@@ -1,7 +1,5 @@
 # Символен тип (char)
 
-[Теория](https://drive.google.com/file/d/1HDcNCg4ZZI2nP1KE34PlBj5lZKL1Pryn/view?usp=sharing)
-
 [Допълнителни материали](../bonus/variables.md)
 
 [Решения](../solutions/char_type/)

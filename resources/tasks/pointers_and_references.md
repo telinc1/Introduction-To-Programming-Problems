@@ -1,9 +1,5 @@
 ﻿# Pointers and References
 
-[Теория за референции](https://drive.google.com/file/d/1XEC9ECvcOFD7RN_O3ks3rEx-PQOq-p7q/view?usp=sharing)
-
-[Теория за пойнтъри](https://drive.google.com/file/d/1iuYRTiykAXkQZ6x24VNRncndfKxFX4UF/view?usp=sharing)
-
 [Допълнителни материали](../bonus/pointers_and_references.md)
 
 ## Задачи

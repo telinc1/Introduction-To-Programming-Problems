@@ -1,7 +1,5 @@
 # Структури
 
-[Теория](https://drive.google.com/file/d/1DlKFWLFt5QEAtjWNlQm0bKDGirbsDHHb/view?usp=sharing)
-
 ## Задачи
 
 1. **Задача** Даден е списък на учениците от 10 клас, съдържащ име, година на раждане, адрес. Напишете програма, която:

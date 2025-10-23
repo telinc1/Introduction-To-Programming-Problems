@@ -1,7 +1,5 @@
 # Вградени функции
 
-[Теория](https://docs.google.com/file/d/1fgI57GL0hJTF3Qd4hG2JwN3_ThE0CWLC/edit?usp=sharing&ouid=115687390792091108365&rtpof=true&sd=true)
-
 [Допълнителни материали](../bonus/built-in.md)
 
 ## Задачи

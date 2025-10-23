@@ -1,9 +1,5 @@
 # Символни низове
 
-[Теория](https://drive.google.com/file/d/1D2rJlcVp4ikCB5p415od7SRdT9X-5KmM/view?usp=sharing)
-
-[Теория за STL std::string](https://drive.google.com/file/d/1EcTh7k-ldd3d9kXWoitstyYgC-ydGp5A/view?usp=sharing)
-
 ## Задачи
 
 1. **Задача** Да се напише програма, която установява дали даден низ е палиндром, т.е. четен отляво надясно и отдясно наляво е един и същ.

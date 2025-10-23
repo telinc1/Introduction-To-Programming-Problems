@@ -1,7 +1,5 @@
 # Функции
 
-[Теория](https://drive.google.com/file/d/1PCkW_q9UoMWP4aE7nJW19SggJNNEYPU1/view?usp=sharing)
-
 [Допълнителни материали](../bonus/functions.md)
 
 ## Задачи

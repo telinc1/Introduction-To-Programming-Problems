@@ -1,7 +1,5 @@
 # Условен оператор if, switch и тернарен оператор ?:
 
-[Теория](https://drive.google.com/file/d/1pA4CHA92qosF2hGPmplDl4a0ZPUV7jB3/view?usp=sharing)
-
 [Допълнителни материали](../bonus/conditionals.md)
 
 ## Задачи

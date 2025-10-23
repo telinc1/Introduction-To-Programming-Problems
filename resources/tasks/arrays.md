@@ -1,7 +1,5 @@
 # Едномерни масиви
 
-[Теория](https://drive.google.com/file/d/1NNkObHSMl1Q1S662kCwlVJDJFr4mc6L9/view?usp=sharing)
-
 [Допълнителни материали](../bonus/arrays.md)
 
 ## Задачи

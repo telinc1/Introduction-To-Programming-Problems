@@ -1,7 +1,5 @@
 # Числа с плаваща запетая (`float` и `double`)
 
-[Теория](https://drive.google.com/file/d/1HDcNCg4ZZI2nP1KE34PlBj5lZKL1Pryn/view?usp=sharing)
-
 [Допълнителни материали](../bonus/variables.md)
 
 [Решения](../solutions/double_type/)

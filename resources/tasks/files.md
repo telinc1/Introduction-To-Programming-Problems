@@ -1,7 +1,5 @@
 # Работа с файлове
 
-[Теория](https://drive.google.com/file/d/1Y2Npnt4XimyM_niTO3HVp11jndMDQJps/view?usp=sharing)
-
 [Допълнителни материали](../bonus/text_files.md)
 
 ## Задачи
