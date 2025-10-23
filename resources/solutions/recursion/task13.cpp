@@ -35,3 +35,5 @@ int binary_search(const std::vector<int> &nums, const int low, const int high,
     }
     return binary_search(nums, low, mid, target);
 }
+
+int main() {}

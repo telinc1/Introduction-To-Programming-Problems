@@ -1,7 +1,7 @@
-#include <iostream>
 #include <cstring>
+#include <iostream>
 
-int str_to_int(char* str) {
+int str_to_int(char *str) {
     int number = 0;
     bool negative = (str[0] == '-');
 
@@ -21,11 +21,11 @@ int main() {
     char str1[100];
     char str2[100];
     std::cin >> str1 >> str2;
-    
+
     int str1_num = str_to_int(str1);
     int str2_num = str_to_int(str2);
-    
+
     std::cout << (str1_num > str2_num ? str1_num : str2_num) << "\n";
-    
+
     return 0;
 }

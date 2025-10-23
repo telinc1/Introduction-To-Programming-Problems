@@ -11,7 +11,7 @@ int fibonacci(const int n) {
 }
 
 int main() {
-   int n;
-   std::cin >> n;
-   std::cout << fibonacci(n) << "\n";
+    int n;
+    std::cin >> n;
+    std::cout << fibonacci(n) << "\n";
 }

@@ -9,10 +9,10 @@ int main() {
         for (int j = 0; j < sizeof(b) / sizeof(int); j++) {
             if (a[i] == b[j]) {
                 counter++;
-                while (a[i] == a[i+1]) {
+                while (a[i] == a[i + 1]) {
                     i++;
                 }
-                while (b[j] == b[j+1]) {
+                while (b[j] == b[j + 1]) {
                     j++;
                 }
             }

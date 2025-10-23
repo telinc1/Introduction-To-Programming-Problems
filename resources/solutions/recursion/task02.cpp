@@ -16,7 +16,7 @@ int first_n_naturals_sum_v2(const int n) {
     return n + first_n_naturals_sum(n - 1);
 }
 
-int main() { 
+int main() {
     std::cout << first_n_naturals_sum(5) << "\n";
-    return 0; 
+    return 0;
 }

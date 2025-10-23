@@ -1,7 +1,7 @@
-#include <iostream>
 #include <cstring>
+#include <iostream>
 
-bool check_str(char* str, int start_index, const char* target) {
+bool check_str(char *str, int start_index, const char *target) {
     for (int i = 0; i < strlen(target); i++) {
         if (str[start_index + i] != target[i]) {
             return false;
@@ -11,8 +11,8 @@ bool check_str(char* str, int start_index, const char* target) {
 }
 
 int main() {
-    char str1[] = "asdasdbeginasdasendasdasbeginasdasend begin";  // false
-    char str2[] = "endginbegin";        // true
+    // char str1[] = "asdasdbeginasdasendasdasbeginasdasend begin"; // false
+    char str2[] = "endginbegin"; // true
 
     int count_begin = 0, count_end = 0;
     /*

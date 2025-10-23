@@ -148,8 +148,7 @@ bool Task12(const int arr[], const unsigned size) {
     for (unsigned i = 0; i < size; ++i) {
         if (arr[i] % 2 == 0) {
             ++even;
-        }
-        else
+        } else
             ++uneven;
     }
 
@@ -242,8 +241,7 @@ void Task20(char arr[]) {
     for (unsigned i = 0; i < Task16(arr); ++i) {
         if (arr[i] >= 97 && arr[i] <= 122) {
             arr[i] -= 32;
-        }
-        else if (arr[i] >= 65 && arr[i] <= 90) {
+        } else if (arr[i] >= 65 && arr[i] <= 90) {
             arr[i] += 32;
         }
     }
@@ -281,7 +279,7 @@ double Task22(unsigned numb) {
 }
 
 int main() {
-    int intArr[] = { 1, 2, 3, 3, 4, 5 };
+    int intArr[] = {1, 2, 3, 3, 4, 5};
     int intArrSize = sizeof(intArr) / sizeof(int);
 
     std::cout << "1. " << Task1(intArr, intArrSize) << std::endl;
@@ -307,7 +305,7 @@ int main() {
 
     std::cout << std::endl;
 
-    char charArr[] = { '+', 'U', 'T', 'e', 's', 't', '\0' };
+    char charArr[] = {'+', 'U', 'T', 'e', 's', 't', '\0'};
 
     std::cout << "16. " << Task16(charArr) << std::endl;
 

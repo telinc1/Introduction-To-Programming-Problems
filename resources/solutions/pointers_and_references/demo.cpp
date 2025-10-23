@@ -12,16 +12,14 @@ int main() {
                  "ptr\t\tc_ptr\ta_ptr_deref\tb_ptr_deref\tc_ptr_deref";
     std::cout << "\n";
 
-    std::cout << "Value"
-              << "\t\t";
+    std::cout << "Value" << "\t\t";
     std::cout << a << "\t\t" << b << "\t\t" << c << "\t\t" << a_ref << "\t\t"
               << b_ref << "\t\t" << c_ref << "\t" << a_ptr << "\t" << b_ptr
               << "\t" << c_ptr << "\t\t" << a_ptr_deref << "\t\t" << b_ptr_deref
               << "\t\t" << c_ptr_deref;
     std::cout << "\n";
 
-    std::cout << "Address"
-              << "\t";
+    std::cout << "Address" << "\t";
     std::cout << &a << "\t" << &b << "\t" << &c << "\t" << &a_ref << "\t"
               << &b_ref << "\t" << &c_ref << "\t" << &a_ptr << "\t" << &b_ptr
               << "\t" << &c_ptr << "\t" << &a_ptr_deref << "\t" << &b_ptr_deref

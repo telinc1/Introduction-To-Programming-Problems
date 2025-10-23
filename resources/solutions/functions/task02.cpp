@@ -2,7 +2,7 @@
 
 bool isOdd(const int num) { return num % 2; }
 
-bool isEven(const int num) { return !isUneven(num); }
+bool isEven(const int num) { return !isOdd(num); }
 
 int main() {
     int input;

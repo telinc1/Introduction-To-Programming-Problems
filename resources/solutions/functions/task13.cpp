@@ -15,7 +15,7 @@ int digit_count(int input, const int k) {
 int main() {
     int k, input, counter = 0;
     std::cin >> k >> input;
-    while (input > 0)  {
+    while (input > 0) {
         if (digit_count(input, k) > 1) {
             counter++;
         }
