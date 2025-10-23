@@ -1,4 +1,5 @@
 ## Условни оператори
+
 - [Логически изрази](https://programist.alle.bg/uroci/bool/)
 - [Булева алгебра](https://en.wikipedia.org/wiki/Boolean_algebra)
 - [Булеви изрази](https://ucha.se/watch/10088/bulevi-izrazi-operatsii-za-sravnenie)
@@ -7,4 +8,3 @@
 - [Conditional or Ternary Operator in C/C++](https://www.geeksforgeeks.org/conditional-or-ternary-operator-in-c-c/)
 - [CONDITIONS and BRANCHES in C++](https://www.youtube.com/watch?v=qEgCT87KOfc)
 - [Ternary Operators in C++](https://www.youtube.com/watch?v=ezqsL-st8qg)
-
